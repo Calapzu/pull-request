@@ -19,4 +19,9 @@ class Operaciones{
         return numero1/numero2;
     }
 
+    public static  int multiplicaion(int num1, int num2){
+        return num1  * num2;
+    }
+
+
 }
