@@ -1,0 +1,29 @@
+[33mcommit 2963f20ea2fb71240da6c2d8c717a86dd6dd9900[m[33m ([m[1;36mHEAD -> [m[1;32mcarlos[m[33m, [m[1;31morigin/carlos[m[33m)[m
+Author: Cgalvispadilla <fktcg99@gmail.com>
+Date:   Wed Sep 1 11:22:30 2021 -0500
+
+    se agrego la funcionalidad de suma en el proyecto
+
+[33mcommit 74e5033a0225b2f9d960f55ded37e7373b2e7f58[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmain[m[33m)[m
+Author: Carlos Andres Galvis Padilla <48323392+Cgalvispadilla@users.noreply.github.com>
+Date:   Wed Sep 1 11:14:06 2021 -0500
+
+    Update .gitignore
+
+[33mcommit 1143829255e9bfe5f88f4d95ae441fc20c2a4e64[m
+Author: jeantr35 <jean.trujillo.35@gmail.com>
+Date:   Wed Sep 1 11:12:06 2021 -0500
+
+    anadido el gitignore
+
+[33mcommit 14b8248e8fc4b7ed7b25e8c119ba4bd5e54d3bee[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Cgalvispadilla <fktcg99@gmail.com>
+Date:   Wed Sep 1 11:09:56 2021 -0500
+
+    se agrego el gitignore
+
+[33mcommit 7bb2f690bb9197c2aefe375f25c27c8980a12708[m
+Author: jeantr35 <jean.trujillo.35@gmail.com>
+Date:   Wed Sep 1 11:02:01 2021 -0500
+
+    first commit
